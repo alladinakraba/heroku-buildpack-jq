@@ -5,10 +5,10 @@ Use [Heroku multi-buildpacks](https://devcenter.heroku.com/articles/using-multip
 For example:
 
 ```
-$ heroku buildpacks:add --index 1 https://github.com/chrismytton/heroku-buildpack-jq.git
+$ heroku buildpacks:add --index 1 https://github.com/alladinakraba/heroku-buildpack-jq.git
 $ heroku buildpacks
 === app-name Buildpack URLs
-1. https://github.com/chrismytton/heroku-buildpack-jq.git
+1. https://github.com/alladinakraba/heroku-buildpack-jq.git
 2. heroku/python
 ```
 
